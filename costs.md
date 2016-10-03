@@ -4,7 +4,7 @@ In a way to keep it very transparent, here's a summary of expenses and income ba
 
 ## Expenses
 
-* 2016-10-20 17.94$
+* 2016-10-20 29.94$
 * 2016-04-20 29.94$ (6mo unlimited)
 * 2015-10-20 17.94$
 * 2015-04-20 17.94$
