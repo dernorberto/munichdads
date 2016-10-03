@@ -15,4 +15,4 @@ Paid so far: 65.82$ = ~58EUR
 
 * meetup 2016-09-27: 4EUR
 
-Received so far: 0EUR
+Received so far: 4EUR
