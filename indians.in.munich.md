@@ -29,7 +29,7 @@
   * was there before and I recall it being good
 * CONs:
   * very close to Pinakotheken, just next to Tresznevski
-  
+
 ## latest entries
 
 **http://www.swagat.de/**
@@ -47,5 +47,6 @@
 **http://indian-mango-specials.de/**
 * PROs
   * just off Isartor
+  * Tried and tested by Munich Dads Group and all loved it.
 * CONs
   * mixed reviews
