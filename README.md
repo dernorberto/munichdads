@@ -1,5 +1,13 @@
 # munichdads
 
+## VERY IMPORTANT
+
+* The content on this repository **is no longer kept up-to-date**  
+* all the content has been moved to a Tettra Wiki:  
+  * https://app.tettra.co/teams/munichdads/  
+
+## Deprecated Content
+
 Welcome to this munich dads information repository.
 
 Let's start with...
